@@ -4,8 +4,12 @@ public class Kamar extends Kosan {
 	
     @Override
     public void cetakNama() {
-        System.out.print("============================ " + super.getNama());System.out.println(" ====================================="); //Penggunaan Super Pada Konstruktor
+        System.out.print("============================ " + super.getNama());System.out.println(" ====================================="); //Penggunaan Super Dan Override
     }
+	
+	public Kamar (String name) { //Penggunaan Super Pada Konstruktor
+		super(name);
+	}
 	
 	public void penggunaanSuper() {
       System.out.println("\n**Menurut Ibu Kos Harus Sudah Ada di Kamar " + super.Jam); //Penggunaan Super Pada Atribut
@@ -40,7 +44,7 @@ public class Kamar extends Kosan {
 	}
 	
 	public static void main(String[] args) {
-        Kamar Mahasiswa = new Kamar();
+        Kamar Mahasiswa = new Kamar("Kost Kubangsari VII No 22");
         Mahasiswa.setNama("Kost Kubangsari VII No 22");
         Mahasiswa.cetakNama();
 		
@@ -52,5 +56,6 @@ public class Kamar extends Kosan {
 		System.out.println("                                   ATRURAN KOS KOSAN                                        ");
 		
 		Mahasiswa.penggunaanSuper();
+		Mahasiswa.getName();
     }
 }
