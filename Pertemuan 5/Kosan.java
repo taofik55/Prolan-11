@@ -5,8 +5,8 @@ public class Kosan {
 	int harga;
 	
 	String Jam = "Jam 11 Malam";
- 
-    protected String getNama() {
+	
+	protected String getNama() {
         return nama;
     }
  
@@ -17,6 +17,14 @@ public class Kosan {
     protected void cetakNama() {
         System.out.println(nama);
     }
+ 
+    Kosan (String nama) {
+		this.nama = nama;
+	}
+	
+	public void getName () {
+		System.out.println("\nNama Kosan : " +nama);
+	}
 	
 	public void data (){
 		System.out.println("Nomor Kamar   : "+no_kamar);
