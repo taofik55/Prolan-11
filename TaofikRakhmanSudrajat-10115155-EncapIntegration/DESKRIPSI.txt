@@ -1,0 +1,17 @@
+Perbedaan Konsep Abstract Dengan Encapsulation Dari Segi Hiding (Penyembunyian) :
+  ** Abstract dapat menyembunyikan rumitnya proses yang akan diprogram dalam kelas abstrak itu sendiri.
+     Dalam artian, apa yang didefinisikan pada kelas abstract itu cukup simpel. Cukup hanya dengan menuliskan
+     method dalam bentuk abstract saja agar dapat dijalankan, namun method itu tidak akan bisa jalan jika
+     tanpa ada penurunan terlebih dahulu dengan mengoverride method yang bersifat abstract tersebut. Jadi
+     dapat diartikan bahwa proses hiding abstract itu memisahkan isi method agar tidak terlihat di kelas abstact
+     namun dapat dijalankan. Sehingga tidak dapat diubah lagi. Dan juga harus dipanggil di kelas utama.
+  
+  ** Encapsulation dapat menyembunyikan nilai suatu variable, atribut, data. Agar data tersebut tidak dapat
+     diubah oleh user itu sendiri, untuk melindungi nilai variable agar bisa dibaca saja (read only) atau
+     ditulis saja (write only). Atau bisa keduanya getter dan setter. Dibuat pada kelas yang baru agar
+     penyembunyian (hiding) terjadi.
+
+Perbedaan dari keduanya adalah : Abstract -> Hiding Method
+                                 Encapsulation -> Hiding Nilai, Atribut, Data
+
+Persamaan dari keduanya adalah : Menyembunyikan, dibuat pada kelas yang baru.
