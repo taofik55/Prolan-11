@@ -1,0 +1,8 @@
+Alasan Pembuatan Tagging Interface Pada Java
+
+- Menciptakan Sebuah Penurunan Umum
+  Tagging interface bisa digunakan untuk menciptakan penurunan umum diantara grup interface.
+
+- Menambahkan Sebuah Tipe Data Ke Sebuah Kelas
+  Sebuah kelas yang mengimplemen Tagging Interface tidak perlu mendefinisikan method, tetapi
+  kelas dapat menjadi tipe interface melalui polimorphisme.
