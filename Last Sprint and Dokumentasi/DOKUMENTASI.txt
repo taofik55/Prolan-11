@@ -1,0 +1,46 @@
+DOKUMENTASI
+
+**DESKRIPSI PROGRAM
+	Program ini adalah program yang ditunjukan untuk mahasiswa yang ingin mengetahui informasi kos, lebih khususnya
+Kost Hijau Kubangsari, yang beralamat di Gang Kubangsari VII no 22, Sekeloa, Coblong Bandung. Pada program ini, calon penghuni
+bisa mendapatkan informasi yang telah dimasukan ke dalam program, seperti nama kosan, alamat kosan, harga kosan, harga listrik,
+dan lain lain. Pada program ini pun terdapat database anak kosan yang sedang tinggal disana, database berupa lama kontrak,
+nama anak kosan, dan harga yang harus dibayarkannya berapa.
+
+	Program ini juga berfokus pada data diri Taofik yang dimana itu adalah pembuat program yang juga menetap di kosan
+tersebut. Namun tak hanya Informasi kosan, tapi juga ada aturan dan denda pada program tersebut. Pada setiap menu yang
+dipilih, itu berarti kebanyakan hanya satu konsep OOP yang terdapat disana. Program telah menggunakan fasilitas validasi.
+
+**CARA MENGGUNAKAN PROGRAM
+	Program ini cukup simple, karena program hanya menampilkan informasi kosan.
+Cara :
+	- User membuka program
+	- Terdapat menu pilihan disana
+	- Pilih menu yang ingin dipilih
+	- Pilihan hanya berupa angka 1,2,3,...,8
+	- Jika user telah mendapatkan informasi yang diinginkan, user bisa kembali ke menu pilihan atau keluar
+	- Pilih angka 8 untuk keluar
+
+**KETERKAITAN DENGAN OOP
+	1) Untuk konsep dasar OOP diimplementasikan hampir diseluruh Kelas
+	2) Untuk Kelas diimplementasikan pada seluruh kelas, sedangkan untuk objek
+	   ada pada kelas KosanMain.java
+	3) Untuk Method ada pada seluruh kelas (method dalam berbagai bentuk)
+	4) Untuk Konstruktor ada pada KosanMain.java (Pemanggilan), Kamar.java,
+	   Kosan.java
+	5) Penggunaan This ada pada Kosan.java, Encap.java, Sprint2.java, Sprint1.java
+	   Kubangsari.java
+	6) Untuk penggunaan atribut ada di hampir seluruh Kelas
+	7) Untuk Inheritance adalah dengan memlih kelas yang ada kata extends, yaitu
+	   KosanAbs.java, Kamar.java
+	8) Penggunaan Overriding ada pada KamarAbs.java, Kamar.java, Taofik.java
+	9) Penggunaan Polimorphisme tidak ada dalam program ini
+	10) Abstraction ada pada KamarAbs.java (Override) dan KosanAbs.java
+	11) Encapsulation ada pada Encap.java
+	12) Interface ada pada Coba.java dan Taofik.java (Override)
+	13) Generic Class ada pada Kubangsari.java, Sprint1.java, Sprint2.java
+	14) Generic Method ada pada Sprint2.java, Sprint1.java
+	15) Untuk Packages ada di semua kelas, namun untuk package gene terdapat pada
+	    kelas Kubangsar.java, Sprint1.java, Sprint2.java. Untuk packageBaru
+	    ada pada Coba.java, Encap.java, Kamar.java, KamarAbs.java, Kosan.java,
+	    KosanAbs.java, KosanMain.java, Taofik.java
