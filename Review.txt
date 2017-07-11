@@ -1,0 +1,199 @@
+------------------------------------------------------------------------------------------------------------------------------------
+NIM	: 10115155
+Nama	: Taofik Rakhman Sudrajat
+Tugas	: Review Materi
+Kelas	: Pemrograman Lanjut - 11
+Github	: taofik55/Prolan-11
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi		Pembahasan								Folder Github
+    1		Pendahuluan	*) Pendahuluan Java							Pertemuan 1
+				a. Bahasa Pemrograman
+				   Sejarah Java Sun Microsystem, James Gosling, 1991, OOP.
+				b. Aplikasi
+				   - Netbeans
+				   - Menjalankan di CMD
+				c. Development Environment
+				d. Deployment Environment
+				e. Prinsip Java, "Write once, run anywhere"
+				f. Mencoba menjalankan program "hello world" lewat cmd dan Netbeans
+				g. Case Sensitive
+				h. Belajar sintaks di Java
+				i. Instalasi JDK dan Netbeans
+`				j. Seting path
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi		Pembahasan								Folder Github
+    2		Konsep OOP	*) Pendahuluan Java							Pertemuan 1
+				a. Bahasa Pemrograman
+				   Sejarah Java Sun Microsystem, James Gosling, 1991, OOP.
+				b. Aplikasi
+				   - Netbeans
+				   - Menjalankan di CMD
+				c. Development Environment
+				d. Deployment Environment
+				e. Prinsip Java, "Write once, run anywhere"
+				f. Mencoba menjalankan program "hello world" lewat cmd dan Netbeans
+				g. Case Sensitive
+				h. Belajar sintaks di Java
+				i. Instalasi JDK dan Netbeans
+`				j. Seting path
+				*) Input dan Output
+				1) Output
+				a. Print dan Println
+				2) Input
+				a. Import Utilitas Scanner
+				b. Instansiasi Scanner
+				c. Penyesuaian Scanner (tipe data dan cara akses)
+				   - String = .nextLine()
+				   - Char = .next().charAt(0)
+				   - Int = .nextInt()
+				   - Boolean = .nextBoolean()
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    3		Kelas dan Objek 	Tugas Membuat Class Bebas (Kosan)					Pertemuan 3 dan Lab Pertemuan 3
+		Tipe Data		(Membuat harus ada kelas dan ojek)
+					Tugas Membuat Tipe Data
+					a. Primitif = 
+					- byte (-128, 127)
+					- int (-2.147.483.648, 2.147.483.647)
+					- short (-32.768, 32.767)
+					- long (-9.223.372.036.854.775.808, -9.223.372.036.854.775.807)
+					- float (-3.402.823.47E+38, 3.402.823.47E+38), akhiri dengan f, 3.14f
+					- double (-1.797.693.134.862.315.70E+308, 1.797.693.134.862.315.70E+308),
+					  akhiri dengan d, 3.14d
+					- char (1 digit)
+					- boolean (true/false, 1/0)
+					b. Objek (Bentukan) = 
+					- String
+					- Calender
+					- Date
+					*) Kelas dan Objek
+					1) Kelas
+					   Klasifikasi dari objek yang ada di dunia ini
+					2) Objek
+					   Perwujudan dari kelas, benda
+					3) Cara penulisan kelas dan objek yang baik
+					4) Tugas Mahasiswa.java
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    4		Method			1) Operator								Pertemuan 4 dan Lab Pertemuan 4
+		Konstruktor		- Aritmetika
+		This			- Assignment
+		Atribut			- Logika
+		Operator		- Miscellaneous
+		Variable		- Relasional
+					2) Variable		
+					3) Method Konstruktor This Atribut
+					- Penjelasan method, konstruktor, this dan attribut
+					- Pembuatan method, konstruktor, this dan attribut
+					- Pemanggilan method, konstruktor, this dan attribut
+					- Penjelasan konsep overloading
+					- Penjelasan parameter
+					4) Tugas/Kuis
+					- Kasus IP Mahasiswa
+					- Menambah program kosan dengan materi yang dipelajari
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    5		Overriding		1) Overriding = Modifikasi method turunan dari super kelas		Pertemuan 5 dan Lab Pertemuan 5
+					- Tidak final
+					- Parameter sama (nama dan jumlah)
+					- Tidak restrictive
+					2) Penggunaan Super
+					3) Penggunaan Inheritance tapi belum banyak
+					4) Tugas/Kuis
+					- Penambahan Override pada program kosan
+					- Nilai MAX/MIN KUIS
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    6		Tidak Masuk		Tidak Masuk								Tidak Masuk
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    7		Inheritance		1) Pewarisan (Inheritance) = Menurunkan method dan atribute dari	Pertemuan 6 & 7
+		Polimorphisme		satu kelas ke kelas lainnya
+					2) Keyword Super = Membedakan atribut, method dari
+					kelas ayah dan anak
+					3) Hubungan Kelas
+					a. Has a (Instansiasi Obj)
+					b. Gen-Spec (Extends)
+					4) Polimorfisme = Kemampuan objek dapat memiliki banyak bentuk (kelas)
+					- Semua objek pada java polimorfik, karena merupakan turunan kelas Object.
+					- Cls1 obj = new Cls2()
+					Tugas :
+					- Penambahan Inheritance pada program Kosan
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    8 		UTS			UTS									-
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    9		Abstraction		1) Abstraksi = Menyembunyikan detil proses (kulit)			Lab Pertemuan 8
+					- Keyword abstract
+					- Tidak dapat diinstansiasi
+					- Tidak memiliki implementasi method
+					- Pada kelas abstrak, bisa memuat kelas konkrit
+					- Tidak dapat diinstansiasi langsung
+					- Turunkan ke kelas lain (konkrit), seluruh metode abstrak harus
+					diimplementasi
+					a. Method Abstract
+					b. Class Abstract
+					2) Tugas
+					- Menambahkan Abstrak pada program Kosan
+					- Tugas Calculator
+					- Tugas Mahasiswa
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+   10    	Enkapsulasi		1) Enkapsulasi								TaofikRakhmanSudrajat-10115155-EncapIntegration
+					- Membungkus data dan fungsi menjadi suatu unit (data-hidding)
+					- Atribute kelas = private
+					- Akses data dengan methode khusus getter setter (public)
+					2) Getter Setter
+					3) Tugas
+					- Menambahkan enkapsulasi pada program Kosan
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+   11		Interface		1) Interface = reference type, mirip dengan kelas,			Pertemuan 10
+					berisi kumpulan metode abstrak, keyword interface
+					- Tidak bisa diinstansiasi
+					- Tidak memiliki konstruktor
+					- Semua metode abstrak
+					- Tidak ada instance variable, kecuali var static dan final
+					- Kelas bisa implements beberapa interface
+					- Interface Tidak bisa implements interface
+					2) Tugas
+					- Menambahkan interface pada program Kosan
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+   12		Generic Class		1) Kelas Generik							Pertemuan 11 dan Lab Pertemuan 11
+					- Kelas umum/universal
+					- Tidak memiliki tipe data dan fungsi di dalamnya (set general)
+					- Diturunkan sebagai parameter tipe class A <T> {}, E=Element,
+					K=Key, N=Number, T=Type, V=Value
+					- Gen<T> obj = new Gen<>()
+					2) Studi Kasus/Tugas/Kuis
+					- Diberi Soal Sesuai dengan program yang dibuat
+					- Menambahkan kelas generik ke program kosan
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    13		Generic Method		1) Metode Generik							Lab Latihan Sprint
+					- Tipe parameter method (generik)
+					- public <T> void method(T[] x) {}
+					2) Sprint
+					- Diberi Soal
+					- Penambahan Generik method pada program kosan
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    14		Package			1) Paket								Package dan ADD FEATURES AND BUGS FIXED
+					- Menghindari konflik penamaan kelas, interface, dsb
+					- Akses kontrol dan saling berhubungan satu sama lain
+					a. Paket bawaan = java.lang, java.io
+					b. Paket bentukan
+					- package nama_package;
+					- javac -d . nama_file.java
+					- java nama_package.nama_kelas
+					2) Tugas
+					- Penambahan package pada program kosan
+					- ADD FEATURES AND BUGS FIXED
+------------------------------------------------------------------------------------------------------------------------------------
+Pertemuan	Materi			Pembahasan								Folder Github
+    15		Review			1) Meriview mata kuliah sepanjang satu semester perkelompok		Review.txt dan Last Sprint and Dokumentasi
+					2) Tugas
+					- Upload review di github
+					- Membuat menu utama dan DOKUMENTASI program
