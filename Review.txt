@@ -22,7 +22,7 @@ Pertemuan	Materi		Pembahasan								Folder Github
 `				j. Seting path
 ------------------------------------------------------------------------------------------------------------------------------------
 Pertemuan	Materi		Pembahasan								Folder Github
-    2		Konsep OOP	*) Pendahuluan Java							Pertemuan 1
+    2		Konsep OOP	*) Pendahuluan Java							Pertemuan 2 dan Lab Pertemuan 2
 				a. Bahasa Pemrograman
 				   Sejarah Java Sun Microsystem, James Gosling, 1991, OOP.
 				b. Aplikasi
