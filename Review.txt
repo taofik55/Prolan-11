@@ -22,20 +22,11 @@ Pertemuan	Materi		Pembahasan								Folder Github
 `				j. Seting path
 ------------------------------------------------------------------------------------------------------------------------------------
 Pertemuan	Materi		Pembahasan								Folder Github
-    2		Konsep OOP	*) Pendahuluan Java							Pertemuan 2 dan Lab Pertemuan 2
-				a. Bahasa Pemrograman
-				   Sejarah Java Sun Microsystem, James Gosling, 1991, OOP.
-				b. Aplikasi
-				   - Netbeans
-				   - Menjalankan di CMD
-				c. Development Environment
-				d. Deployment Environment
-				e. Prinsip Java, "Write once, run anywhere"
-				f. Mencoba menjalankan program "hello world" lewat cmd dan Netbeans
-				g. Case Sensitive
-				h. Belajar sintaks di Java
-				i. Instalasi JDK dan Netbeans
-`				j. Seting path
+    2		Konsep OOP	*) Konsep OOP							Pertemuan 2 dan Lab Pertemuan 2
+				- Meyer = OO adalah sistem yang bungkus
+				- OO adalah pola pikir
+				- Tidak ada program OO
+				- Bahasa yang menggunakan OO adalah Java, Smalltalk
 				*) Input dan Output
 				1) Output
 				a. Print dan Println
@@ -47,6 +38,7 @@ Pertemuan	Materi		Pembahasan								Folder Github
 				   - Char = .next().charAt(0)
 				   - Int = .nextInt()
 				   - Boolean = .nextBoolean()
+				*) Tugas Mahasiswa.java
 ------------------------------------------------------------------------------------------------------------------------------------
 Pertemuan	Materi			Pembahasan								Folder Github
     3		Kelas dan Objek 	Tugas Membuat Class Bebas (Kosan)					Pertemuan 3 dan Lab Pertemuan 3
@@ -72,7 +64,6 @@ Pertemuan	Materi			Pembahasan								Folder Github
 					2) Objek
 					   Perwujudan dari kelas, benda
 					3) Cara penulisan kelas dan objek yang baik
-					4) Tugas Mahasiswa.java
 ------------------------------------------------------------------------------------------------------------------------------------
 Pertemuan	Materi			Pembahasan								Folder Github
     4		Method			1) Operator								Pertemuan 4 dan Lab Pertemuan 4
