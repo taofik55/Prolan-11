@@ -23,8 +23,8 @@ Pertemuan	Materi		Pembahasan								Folder Github
 ------------------------------------------------------------------------------------------------------------------------------------
 Pertemuan	Materi		Pembahasan								Folder Github
     2		Konsep OOP	*) Konsep OOP							Pertemuan 2 dan Lab Pertemuan 2
-				- Meyer = OO adalah sistem yang bungkus
-				- OO adalah pola pikir
+		Input dan	- Meyer = OO adalah sistem yang bungkus
+		Output		- OO adalah pola pikir
 				- Tidak ada program OO
 				- Bahasa yang menggunakan OO adalah Java, Smalltalk
 				*) Input dan Output
